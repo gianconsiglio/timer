@@ -1,0 +1,43 @@
+body{
+    background-color: deepskyblue;
+}
+
+#container{
+    background-color: aliceblue;
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    height: 200px;
+    border-radius: 20px;
+    padding: 50px;
+}
+
+header{
+    margin: 0 auto;
+    text-align: center;
+    letter-spacing: 10px;
+    color: black;
+}
+
+span{
+    font-size: 60px;
+}
+
+#botoes{
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.btn{
+    padding: 30px;
+    margin-right: 20px;
+    width: 130px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+.btn:hover{
+    background-color: whitesmoke;
+}
